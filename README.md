@@ -1,2 +1,6 @@
-# Consigna-TP-creativo
-Consigna base para tp 
+# Titulo del ejercicio
+
+### Planteo del problema:
+
+### Requerimientos:
+
